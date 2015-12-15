@@ -2,3 +2,4 @@ this is test!
 test 2
 Testing for commit message parsing!
 test 3
+test 4
