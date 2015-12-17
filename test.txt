@@ -10,3 +10,4 @@ test 8
 test 9, this is after git repository added
 testing after license update
 testing changing cron job to every 1 min
+Trying to trigger release
