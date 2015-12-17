@@ -12,3 +12,4 @@ testing after license update
 testing changing cron job to every 1 min
 Trying to trigger release
 Trying to trigger
+Triggered by commit, second try 
